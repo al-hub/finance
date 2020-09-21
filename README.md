@@ -19,6 +19,7 @@ creditcard
 
 checkcard  
 |name|at least|strategy|content|
+|---|---|---|---|
 |우리쿠키|20|yogiyo|gmarket 0.2x3 , payco 0.1x2|
 |새마을카카오|15|???|kakao pay 0.5|
 |SFC체크|x|wait|SFC|
