@@ -26,7 +26,7 @@ check
 |[새마을카카오]|15|???|kakao pay 0.5|
 |[SFC체크]|x|wait|SFC|
 |[신한DeepOn]|60|wait|1.2 payback|
-|[농협치즈]|x|wait|???|
+|[농협치즈]|20|wait|???|
 
 
 [우리DA@]: https://sccd.wooribank.com/smtccd/mw/html/CARDINFO/CARDINFO_0111.html?prd_cd=834153&trc_id=88801332
