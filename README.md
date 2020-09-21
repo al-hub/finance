@@ -40,3 +40,13 @@ check
 
 
 
+T.B.D  ([education](https://www.valuechampion.co.kr/credit-cards/최고의-학원비-할인-신용카드-비교-추천#kbedu))  
+|name|at least|strategy|content|
+|---|---|---|---|
+|[하나1Q]|30|30,40,20 |???|
+|[신한edu]|30|30,40,20|???|
+|[신한lady]|30|yera 10 @.@|???|
+
+[하나1Q]: https://m.blog.naver.com/f0725/221862345652
+[신한edu]: https://m.blog.naver.com/PostView.nhn?blogId=cisdong&logNo=221219934508&proxyReferer=https:%2F%2Fwww.google.com%2F
+[신한lady]: https://ribosome.tistory.com/47
