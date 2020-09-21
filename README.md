@@ -29,11 +29,12 @@ check
 |[농협치즈]|x|wait|???|
 
 
-[우리DA@]
-[현대DL]
-[신한o2o]
-[우리쿠키]
-[새마을카카오]
-[SFC체크]
-[신한DeepOn]:https://www.shinhancard.com/pconts/html/card/apply/check/1187978_2206.html
-[농협치즈]
+[우리DA@]: 
+[현대DL]: 
+[신한o2o]: 
+[우리쿠키]: 
+[새마을카카오]: 
+[SFC체크]: 
+[신한DeepOn]: https://www.shinhancard.com/pconts/html/card/apply/check/1187978_2206.html
+[농협치즈]: 
+
