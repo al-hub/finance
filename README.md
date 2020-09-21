@@ -32,7 +32,7 @@ check
 [우리DA@]: https://sccd.wooribank.com/smtccd/mw/html/CARDINFO/CARDINFO_0111.html?prd_cd=834153&trc_id=88801332
 [현대DL]: https://www.hyundaicard.com/cpc/cr/CPCCR0201_01.hc?cardWcd=ONOF
 [신한o2o]: https://www.shinhancard.com/pconts/html/card/apply/credit/1195563_2207.html
-[우리쿠키]: https://pc.wooricard.com/dcpc/yh1/crd/crd01/H1CRD101S02.do
+[우리쿠키]: http://www.card-gorilla.com/card/detail/312
 [새마을카카오]: https://mgcheck.kfcc.co.kr/pers/appl/persKakaoGuid.do
 [SFC체크]: https://www.samsungcard.com/personal/sfc/dining/UHPPBE2004M1.jsp
 [신한DeepOn]: https://www.shinhancard.com/pconts/html/card/apply/check/1187978_2206.html
