@@ -2,6 +2,8 @@
 
 신용카드  
 불필요 소비를 일으키지 않는것이 관건이다!  
+(피킹률 쫓다가 소비 늘어나면 망함)  
+(본인 소비내에서 피킹률 계산)  
 
 ref  
 https://www.valuechampion.co.kr  
@@ -9,7 +11,7 @@ http://www.card-gorilla.com
 https://cpicker.com  
 
   
-creditcard  
+credit  
 |name|at least|strategy|content|
 |---|---|---|---|
 |우리DA@|x|MUST-EXPENSIVE|600 by 2021.9.1, magic6-3%|
@@ -17,7 +19,7 @@ creditcard
 |신한o2o|50|math 40|telephone 1(10%)|
 
 
-checkcard  
+check  
 |name|at least|strategy|content|
 |---|---|---|---|
 |우리쿠키|20|yogiyo|gmarket 0.2x3 , payco 0.1x2|
@@ -25,3 +27,4 @@ checkcard
 |SFC체크|x|wait|SFC|
 |신한DeepOn|60|wait|1.2 payback|
 |농협치즈|x|wait|???|
+
