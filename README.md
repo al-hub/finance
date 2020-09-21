@@ -14,7 +14,7 @@ creditcard
 |---|---|---|---|
 |우리DA@|x|MUST-EXPENSIVE|600 by 2021.9.1, magic6-3%|
 |현대DL|50|english 30|netflex 1, online pay 1, 2 moth free, 9/10-|
-|신한o2o|50|math 40|newtork 10%|
+|신한o2o|50|math 40|telephone 1(10%)|
 
 
 checkcard  
