@@ -5,6 +5,13 @@
 (피킹률 쫓다가 소비 늘어나면 망함)  
 (본인 소비내에서 피킹률 계산)  
 
+
+해피,부애라 4.6, 9.2 기준8%
+주로 티모슈세(가입5)
+
+커처래드→지마케 20한도(월)
+
+
 ref  
 https://www.valuechampion.co.kr  
 http://www.card-gorilla.com  
