@@ -34,7 +34,7 @@ credit
 check  
 |name|at least|strategy|content|
 |---|---|---|---|
-|[우리쿠키]|20|커쳐-스마일,yogiyo|gmarket 0.2x3 , payco 0.1x2, 스벅 건당만원 0.2x4|
+|[우리쿠키]|20|커쳐-스마일,yogiyo|gmarket 2(0.2x3) , payco 1(0.1x2), 스벅1(0.2x4)|
 |[새마을카카오]|15|???|kakao pay 0.5|
 |[농협치즈]|20-30|치즈포인트1-1.5%|ktx, srt, 책, gmarket|
 |[SFC체크]|x|wait|SFC|
